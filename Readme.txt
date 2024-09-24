@@ -1,26 +1,2 @@
-How to run the Food Waste Management System Project Using PHP and MySQL
-
-1.Download the zip file
-
-2.Extract the file and copy fwms folder
-
-3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
-
-4.Open PHPMyAdmin (http://localhost/phpmyadmin)
-
-5.Create a database with name fwmsdb
-
-6.Import fwmsdb.sql file(given inside the zip package in SQL file folder)
-
-7.Run the script http://localhost/fwms
-
-Admin Credential
-Username: admin
-Password: Test@123
-
-Donor Credntails
-Username: johndoe@gmail.com
-Password: Test@123
-
-Student-Information-Record-System
-The Student Information Record System is a project designed to enhance the efficiency and user experience of student registration processes within educational institutions. Beginning with a secure user authentication process, the system requires users to input their email id, password, and successfully complete a Captcha challenge. The login interface includes a reset button for swift information clearing, ensuring a seamless experience. Once logged in, users proceed to a comprehensive registration form where mandatory fields such as registration number, student name, email, batch, department, phone number, address, and parent name are filled out. This form also includes the option to upload a photo. Both a reset and submit button are provided on the registration form, allowing users to reset information o initiate the registration process, respectively. Upon successful submission, a confirmation message pops up, reassuring users that their registration is complete. All entered informqation is securely stored in the database, associated with the user’s unique email id, ensuring data integrity. Administrativestaffcanefficientlymanageandviewstudentdetailsstoredinthedatabase,further streamlining the registration and record-keeping processes. The technological stackencompasses HTML, CSS, and JavaScript for the front end, C# for server-side logic and database interactions, MySQL as the Database Management System, and Visual Studio as the Integrated Development Environment. With a focus on user-centric design and robus data security, this system is poised to optimize the overall student registration experience.
+Feast-For-All
+In recent times, food wastage is increasing at an unprecedented rate and creating a negative effect ontheeconomicgrowthfactors. Thisinturncreatesamajorimpactontheagricultural processing industries. As food recycling is always remaining as a complex task, in this project, we are focusing mainly on the remaining food in the hotels. This web application is used to manage left over foods in a useful way. Every day the people are wasting lots of foods. So we have to reduce that food wastage problem through online. In general we are automating the process of the food wastages
